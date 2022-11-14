@@ -1,0 +1,16 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+
+
+actor User as u
+participant "loginFacade:LoginFacade" as facade
+participant ""
+
+
+
+
+
+
+@enduml
